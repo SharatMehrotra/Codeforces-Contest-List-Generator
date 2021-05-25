@@ -6,5 +6,5 @@ If it shows Enter, it's a an active contest
 If it's written in a single line, it's an upcoming contest.
 
 ##### Room for improvement #####
-1. Improve the readability of the text file.
-2. Display the dates as well 
+1. Improve the readability of the text file. (closed)
+2. Display the dates as well. (closed)
